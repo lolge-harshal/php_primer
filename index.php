@@ -31,6 +31,8 @@ echo '<h1> My gender is: ' . $gender . ' </h1>'; // using single quotes
 ?>
 
 <button type="button" class="btn btn-dark">CLICK ME!</button>
+<button type="button" class="btn btn-primary">CLICK ME!</button>
+<button type="button" class="btn btn-success">CLICK ME!</button>
 <br></br>
 <div class="alert alert-info" role="alert">
     A simple info alert—check it out!
